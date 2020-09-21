@@ -1,0 +1,1 @@
+Expense Management System is an application used to record expenses made my employees.It is used to keep a record of all expenses in a company.Expense Details can be viewed by top management to see the expenses.This application system include CRUD operations which can be used by employees and managers.
